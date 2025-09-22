@@ -1,0 +1,3645 @@
+Request URL
+https://l.clarity.ms/collect
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-headers
+request-id,traceparent
+access-control-allow-methods
+POST
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:10:59 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+request-id,traceparent
+access-control-request-method
+POST
+connection
+keep-alive
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+
+
+Request URL
+https://l.clarity.ms/collect
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:10:59 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+application/x-clarity-gzip
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+connection
+keep-alive
+content-length
+464
+cookie
+MUID=02DC7FF41397609D1F46699B17976EDB
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|a1fa3d91dbfb4dd194aa7fa8c5f58389.f8751baef57249ed
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+traceparent
+00-a1fa3d91dbfb4dd194aa7fa8c5f58389-f8751baef57249ed-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+
+Request URL
+https://eastus2-3.in.applicationinsights.azure.com/v2/track
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[2603:1030:40c:11::303]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+content-type
+application/json; charset=utf-8
+date
+Mon, 22 Sep 2025 20:11:01 GMT
+server
+Microsoft-HTTPAPI/2.0
+strict-transport-security
+max-age=31536000
+x-content-type-options
+nosniff
+:authority
+eastus2-3.in.applicationinsights.azure.com
+:method
+POST
+:path
+/v2/track
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+43951
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+
+Request URL
+https://sedintegracoes.educacao.sp.gov.br/credenciais/api/ValidarToken
+Request Method
+OPTIONS
+Status Code
+200 OK
+Remote Address
+[64:ff9b::87e8:2c39]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+authorization,ocp-apim-subscription-key,request-id,traceparent
+access-control-allow-methods
+POST
+access-control-allow-origin
+*
+connection
+keep-alive
+content-length
+0
+date
+Mon, 22 Sep 2025 20:11:04 GMT
+request-context
+appId=cid-v1:861a4529-2cf3-4d08-a982-60d8c305b12e
+set-cookie
+ApplicationGatewayAffinityCORS=b6acccc21a1d7b0653c15fbda6021ce8; Path=/; SameSite=None; Secure
+set-cookie
+ApplicationGatewayAffinity=b6acccc21a1d7b0653c15fbda6021ce8; Path=/
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+authorization,ocp-apim-subscription-key,request-id,traceparent
+access-control-request-method
+POST
+connection
+keep-alive
+host
+sedintegracoes.educacao.sp.gov.br
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://sedintegracoes.educacao.sp.gov.br/credenciais/api/ValidarToken
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[64:ff9b::87e8:2c39]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+connection
+keep-alive
+content-type
+application/json; charset=utf-8
+date
+Mon, 22 Sep 2025 20:11:04 GMT
+request-context
+appId=cid-v1:861a4529-2cf3-4d08-a982-60d8c305b12e
+set-cookie
+ApplicationGatewayAffinityCORS=b6acccc21a1d7b0653c15fbda6021ce8; Path=/; SameSite=None; Secure
+set-cookie
+ApplicationGatewayAffinity=b6acccc21a1d7b0653c15fbda6021ce8; Path=/
+transfer-encoding
+chunked
+x-ms-middleware-request-id
+00000000-0000-0000-0000-000000000000
+accept
+application/json, text/plain, */*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+authorization
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJMT0dJTiI6IjAwMDAxMTIyMTg3Njk1U1AiLCJOSUNLTkFNRSI6InZpdG9yaHVnb3JvMTIyMTg3Njk1IiwiQ0RfVVNVQVJJTyI6IjI5Njg5OTg1NiIsInVuaXF1ZV9uYW1lIjoiUEVSRklTIiwiUEVSRklTIjoiW3tcIkNEX1BFUkZJTFwiOlwiNlwiLFwiTk1fUEVSRklMXCI6XCJBbHVub1wiLFwiTlJfQ09NUE9SVEFNRU5UT1wiOlwiNlwiLFwiQ09NUE9SVEFNRU5UT1wiOlwiQWx1bm9cIn1dIiwiTkFNRSI6IlZJVE9SIEhVR08gUk9EUklHVUVTIFBFUkVJUkEiLCJNRVRPRE9MT0dJTiI6IlNFRCIsIkNQRiI6IjYwMjk3Nzk5ODI3IiwiRU1BSUwiOiIiLCJuYmYiOjE3NTg1NzE4NDIsImV4cCI6MTc1ODY1ODI0MiwiaWF0IjoxNzU4NTcxODQyfQ.EsJ3gk9S8AgZ_1fVDmGa7hq-ISP957XfLqmSRW5r5zg
+connection
+keep-alive
+content-length
+0
+host
+sedintegracoes.educacao.sp.gov.br
+ocp-apim-subscription-key
+2b03c1db3884488795f79c37c069381a
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|a1fa3d91dbfb4dd194aa7fa8c5f58389.9eb4b859026b470d
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+traceparent
+00-a1fa3d91dbfb4dd194aa7fa8c5f58389-9eb4b859026b470d-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://edusp-api.ip.tv/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[2606:4700:10::6814:18aa]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-allow-methods
+GET,HEAD,PUT,POST,DELETE
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+98347318ce8fc504-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:11:07 GMT
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+vary
+Access-Control-Request-Headers
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+OPTIONS
+:path
+/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-request-method
+GET
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://edusp-api.ip.tv/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+Request Method
+GET
+Status Code
+304 Not Modified
+Remote Address
+[2606:4700:10::6814:18aa]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+9834731998f6c504-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:11:07 GMT
+etag
+W/"1e-T20kvyvwmed8bLpIMiuRARKCfRY"
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+GET
+:path
+/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-type
+application/json
+if-none-match
+W/"1e-T20kvyvwmed8bLpIMiuRARKCfRY"
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|a1fa3d91dbfb4dd194aa7fa8c5f58389.7c1a4dbddafa4bfb
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+traceparent
+00-a1fa3d91dbfb4dd194aa7fa8c5f58389-7c1a4dbddafa4bfb-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-api-key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjVkNjJkZDNiNDYzYWIyOWY4MzdiMGY2IiwiZXh0ZXJuYWxfaWQiOiIyOTY4OTk4NTYiLCJza2V5IjoiYXV0aF90b2tlbjplZHVzcDp2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsIm5pY2siOiJ2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsInJlYWxtIjoiZWR1c3AiLCJyb2xlIjoiMDAwNiIsImlhdCI6MTc1ODU3MTg0MywiZXhwIjoxNzU4NjU4MjQzLCJhdWQiOiJ3ZWJjbGllbnQifQ.vZoRr5YRO638TI7dpi36wm26_vJhUXRvd3k4xzQp5Bc
+x-api-platform
+webclient
+x-api-realm
+edusp
+
+
+
+Request URL
+https://l.clarity.ms/collect
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-headers
+request-id,traceparent
+access-control-allow-methods
+POST
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:11:08 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+request-id,traceparent
+access-control-request-method
+POST
+connection
+keep-alive
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://l.clarity.ms/collect
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:11:09 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+application/x-clarity-gzip
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+connection
+keep-alive
+content-length
+1012
+cookie
+MUID=02DC7FF41397609D1F46699B17976EDB
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|a1fa3d91dbfb4dd194aa7fa8c5f58389.8b1a58bd852741f8
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+traceparent
+00-a1fa3d91dbfb4dd194aa7fa8c5f58389-8b1a58bd852741f8-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://www.google-analytics.com/g/collect?v=2&tid=G-EBFJLFC85E&gtm=45je59i0v9183079152za200zd9183079152&_p=1758571820335&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fLqqwSYENNGw0WzZGo6tAD&cid=2097753910.1758571821&ul=pt-br&sr=1366x768&lps=1&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.128%7CNot%253DA%253FBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B140.0.7339.128&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~115480710~115616985&uid=296899856&sid=1758571820&sct=1&seg=1&dl=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2F&dr=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Flogin-alunos&dt=Sala%20do%20Futuro%20Aluno&_s=13&tfd=53005
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[2800:3f0:4001:809::200e]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+alt-svc
+h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control
+no-cache, no-store, must-revalidate
+content-length
+0
+content-security-policy-report-only
+script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:102:0
+content-type
+text/plain
+cross-origin-opener-policy-report-only
+same-origin; report-to=ascnsrsggc:102:0
+cross-origin-resource-policy
+cross-origin
+date
+Mon, 22 Sep 2025 20:11:09 GMT
+expires
+Fri, 01 Jan 1990 00:00:00 GMT
+pragma
+no-cache
+report-to
+{"group":"ascnsrsggc:102:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:102:0"}],}
+server
+Golfe2
+:authority
+www.google-analytics.com
+:method
+POST
+:path
+/g/collect?v=2&tid=G-EBFJLFC85E&gtm=45je59i0v9183079152za200zd9183079152&_p=1758571820335&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fLqqwSYENNGw0WzZGo6tAD&cid=2097753910.1758571821&ul=pt-br&sr=1366x768&lps=1&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.128%7CNot%253DA%253FBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B140.0.7339.128&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~115480710~115616985&uid=296899856&sid=1758571820&sct=1&seg=1&dl=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2F&dr=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Flogin-alunos&dt=Sala%20do%20Futuro%20Aluno&_s=13&tfd=53005
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+267
+content-type
+text/plain;charset=UTF-8
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+no-cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://eastus2-3.in.applicationinsights.azure.com/v2/track
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[2603:1030:40c:11::303]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+content-type
+application/json; charset=utf-8
+date
+Mon, 22 Sep 2025 20:11:18 GMT
+server
+Microsoft-HTTPAPI/2.0
+strict-transport-security
+max-age=31536000
+x-content-type-options
+nosniff
+:authority
+eastus2-3.in.applicationinsights.azure.com
+:method
+POST
+:path
+/v2/track
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+8658
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+Request URL
+https://sedintegracoes.educacao.sp.gov.br/credenciais/api/ValidarToken
+Request Method
+OPTIONS
+Status Code
+200 OK
+Remote Address
+[64:ff9b::87e8:2c39]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+authorization,ocp-apim-subscription-key,request-id,traceparent
+access-control-allow-methods
+POST
+access-control-allow-origin
+*
+connection
+keep-alive
+content-length
+0
+date
+Mon, 22 Sep 2025 20:14:36 GMT
+request-context
+appId=cid-v1:861a4529-2cf3-4d08-a982-60d8c305b12e
+set-cookie
+ApplicationGatewayAffinityCORS=b6acccc21a1d7b0653c15fbda6021ce8; Path=/; SameSite=None; Secure
+set-cookie
+ApplicationGatewayAffinity=b6acccc21a1d7b0653c15fbda6021ce8; Path=/
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+authorization,ocp-apim-subscription-key,request-id,traceparent
+access-control-request-method
+POST
+connection
+keep-alive
+host
+sedintegracoes.educacao.sp.gov.br
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://l.clarity.ms/collect
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:14:36 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+connection
+keep-alive
+content-length
+2740
+content-type
+text/plain;charset=UTF-8
+cookie
+MUID=02DC7FF41397609D1F46699B17976EDB
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+no-cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/7334.187a5391.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:bdf::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T201437Z-er168c9576cm5ppwhC1GRUw8a00000000egg00000000v42g
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/7334.187a5391.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; _clsk=93ko7b%5E1758571846905%5E4%5E0%5El.clarity.ms%2Fcollect; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758571864$j16$l0$h0; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572025693
+referer
+https://saladofuturo.educacao.sp.gov.br/tarefas
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/4008.855f4e27.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:bdf::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T201437Z-er168c9576cm5ppwhC1GRUw8a00000000egg00000000v42h
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/4008.855f4e27.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; _clsk=93ko7b%5E1758571846905%5E4%5E0%5El.clarity.ms%2Fcollect;
+
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/9429.5fc06921.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:bdf::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T201437Z-er168c9576cm5ppwhC1GRUw8a00000000egg00000000v42k
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/9429.5fc06921.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; _clsk=93ko7b%5E1758571846905%5E4%5E0%5El.clarity.ms%2Fcollect; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758571864$j16$l0$h0; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572025693
+referer
+https://saladofuturo.educacao.sp.gov.br/tarefas
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/6550.796cf107.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:bdf::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T201437Z-er168c9576cm5ppwhC1GRUw8a00000000egg00000000v42m
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/6550.796cf107.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; _clsk=93ko7b%5E1758571846905%5E4%5E0%5El.clarity.ms%2Fcollect; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758571864$j16$l0$h0; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572025693
+referer
+https://saladofuturo.educacao.sp.gov.br/tarefas
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/378.9b80630a.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:bdf::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T201437Z-er168c9576cm5ppwhC1GRUw8a00000000egg00000000v42n
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/378.9b80630a.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; _clsk=93ko7b%5E1758571846905%5E4%5E0%5El.clarity.ms%2Fcollect; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758571864$j16$l0$h0; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572025693
+referer
+https://saladofuturo.educacao.sp.gov.br/tarefas
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://sedintegracoes.educacao.sp.gov.br/credenciais/api/ValidarToken
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[64:ff9b::87e8:2c39]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+connection
+keep-alive
+content-type
+application/json; charset=utf-8
+date
+Mon, 22 Sep 2025 20:14:36 GMT
+request-context
+appId=cid-v1:861a4529-2cf3-4d08-a982-60d8c305b12e
+set-cookie
+ApplicationGatewayAffinityCORS=b6acccc21a1d7b0653c15fbda6021ce8; Path=/; SameSite=None; Secure
+set-cookie
+ApplicationGatewayAffinity=b6acccc21a1d7b0653c15fbda6021ce8; Path=/
+transfer-encoding
+chunked
+x-ms-middleware-request-id
+00000000-0000-0000-0000-000000000000
+accept
+application/json, text/plain, */*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+authorization
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJMT0dJTiI6IjAwMDAxMTIyMTg3Njk1U1AiLCJOSUNLTkFNRSI6InZpdG9yaHVnb3JvMTIyMTg3Njk1IiwiQ0RfVVNVQVJJTyI6IjI5Njg5OTg1NiIsInVuaXF1ZV9uYW1lIjoiUEVSRklTIiwiUEVSRklTIjoiW3tcIkNEX1BFUkZJTFwiOlwiNlwiLFwiTk1fUEVSRklMXCI6XCJBbHVub1wiLFwiTlJfQ09NUE9SVEFNRU5UT1wiOlwiNlwiLFwiQ09NUE9SVEFNRU5UT1wiOlwiQWx1bm9cIn1dIiwiTkFNRSI6IlZJVE9SIEhVR08gUk9EUklHVUVTIFBFUkVJUkEiLCJNRVRPRE9MT0dJTiI6IlNFRCIsIkNQRiI6IjYwMjk3Nzk5ODI3IiwiRU1BSUwiOiIiLCJuYmYiOjE3NTg1NzE4NDIsImV4cCI6MTc1ODY1ODI0MiwiaWF0IjoxNzU4NTcxODQyfQ.EsJ3gk9S8AgZ_1fVDmGa7hq-ISP957XfLqmSRW5r5zg
+connection
+keep-alive
+content-length
+0
+host
+sedintegracoes.educacao.sp.gov.br
+ocp-apim-subscription-key
+2b03c1db3884488795f79c37c069381a
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|a1fa3d91dbfb4dd194aa7fa8c5f58389.64586cd114934bfe
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+traceparent
+00-a1fa3d91dbfb4dd194aa7fa8c5f58389-64586cd114934bfe-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://eastus2-3.in.applicationinsights.azure.com/v2/track
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[2603:1030:40c:1::281]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+content-type
+application/json; charset=utf-8
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+server
+Microsoft-HTTPAPI/2.0
+strict-transport-security
+max-age=31536000
+x-content-type-options
+nosniff
+:authority
+eastus2-3.in.applicationinsights.azure.com
+:method
+POST
+:path
+/v2/track
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+2773
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://l.clarity.ms/collect
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-headers
+request-id,traceparent
+access-control-allow-methods
+POST
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+request-id,traceparent
+access-control-request-method
+POST
+connection
+keep-alive
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://eastus2-3.in.applicationinsights.azure.com/v2/track
+Request Method
+POST
+Status Code
+200 OK
+Remote Address
+[2603:1030:40c:1::281]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+content-type
+application/json; charset=utf-8
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+server
+Microsoft-HTTPAPI/2.0
+strict-transport-security
+max-age=31536000
+x-content-type-options
+nosniff
+:authority
+eastus2-3.in.applicationinsights.azure.com
+:method
+POST
+:path
+/v2/track
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+2045
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+Request URL
+https://www.google-analytics.com/g/collect?v=2&tid=G-EBFJLFC85E&gtm=45je59i0v9183079152za200zd9183079152&_p=1758571820335&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fLqqwSYENNGw0WzZGo6tAD&cid=2097753910.1758571821&ul=pt-br&sr=1366x768&lps=1&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.128%7CNot%253DA%253FBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B140.0.7339.128&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~115480710~115616985&uid=296899856&sid=1758571820&sct=1&seg=1&dl=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Ftarefas&dr=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Flogin-alunos&dt=Sala%20do%20Futuro%20Aluno&_s=14&tfd=260961
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[2800:3f0:4001:809::200e]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+alt-svc
+h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control
+no-cache, no-store, must-revalidate
+content-length
+0
+content-security-policy-report-only
+script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:102:0
+content-type
+text/plain
+cross-origin-opener-policy-report-only
+same-origin; report-to=ascnsrsggc:102:0
+cross-origin-resource-policy
+cross-origin
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+expires
+Fri, 01 Jan 1990 00:00:00 GMT
+pragma
+no-cache
+report-to
+{"group":"ascnsrsggc:102:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:102:0"}],}
+server
+Golfe2
+:authority
+www.google-analytics.com
+:method
+POST
+:path
+/g/collect?v=2&tid=G-EBFJLFC85E&gtm=45je59i0v9183079152za200zd9183079152&_p=1758571820335&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fLqqwSYENNGw0WzZGo6tAD&cid=2097753910.1758571821&ul=pt-br&sr=1366x768&lps=1&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.128%7CNot%253DA%253FBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B140.0.7339.128&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~115480710~115616985&uid=296899856&sid=1758571820&sct=1&seg=1&dl=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Ftarefas&dr=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Flogin-alunos&dt=Sala%20do%20Futuro%20Aluno&_s=14&tfd=260961
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+229
+content-type
+text/plain;charset=UTF-8
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+no-cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://l.clarity.ms/collect
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[64:ff9b::3308:cfab]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+connection
+keep-alive
+date
+Mon, 22 Sep 2025 20:14:37 GMT
+request-context
+appId=cid-v1:e55edbbe-e22b-46b4-8313-9ee2a4e71d12
+server
+nginx
+vary
+Origin
+accept
+application/x-clarity-gzip
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+connection
+keep-alive
+content-length
+1054
+cookie
+MUID=02DC7FF41397609D1F46699B17976EDB
+host
+l.clarity.ms
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|8fee5ddd79354b1584656cc0b9dd6f51.0d568b7d18ea4e20
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+traceparent
+00-8fee5ddd79354b1584656cc0b9dd6f51-0d568b7d18ea4e20-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://edusp-api.ip.tv/tms/task/targets/categories?expired_only=false&filter_expired=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&category_parent_id=19&is_essay=false&is_exam=false
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[2606:4700:10::ac42:a3e1]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-allow-methods
+GET,HEAD,PUT,POST,DELETE
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+983478451f374b2e-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:14:38 GMT
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+vary
+Access-Control-Request-Headers
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+OPTIONS
+:path
+/tms/task/targets/categories?expired_only=false&filter_expired=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&category_parent_id=19&is_essay=false&is_exam=false
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-request-method
+GET
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/fonts/criancas.json
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:bdf::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/json
+date
+Mon, 22 Sep 2025 20:14:38 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T201438Z-er168c9576cm5ppwhC1GRUw8a00000000egg00000000v47t
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/fonts/criancas.json
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; _clsk=93ko7b%5E1758571846905%5E4%5E0%5El.clarity.ms%2Fcollect; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572025693; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758572077$j59$l0$h0
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/tarefas
+request-id
+|8fee5ddd79354b1584656cc0b9dd6f51.42325d05a2664e99
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+traceparent
+00-8fee5ddd79354b1584656cc0b9dd6f51-42325d05a2664e99-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+
+Request URL
+https://edusp-api.ip.tv/tms/task/targets/categories?expired_only=false&filter_expired=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&category_parent_id=19&is_essay=false&is_exam=false
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2606:4700:10::ac42:a3e1]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+98347845dff94b2e-GRU
+content-encoding
+br
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+content-type
+application/json; charset=utf-8
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:14:39 GMT
+etag
+W/"272-PWaO74dRX17qr+kSTebXGXYQfDA"
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-server-time
+2025-09-22T20:14:39.038Z
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+GET
+:path
+/tms/task/targets/categories?expired_only=false&filter_expired=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&category_parent_id=19&is_essay=false&is_exam=false
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|8fee5ddd79354b1584656cc0b9dd6f51.7363cf54fc8049d4
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+traceparent
+00-8fee5ddd79354b1584656cc0b9dd6f51-7363cf54fc8049d4-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-api-key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjVkNjJkZDNiNDYzYWIyOWY4MzdiMGY2IiwiZXh0ZXJuYWxfaWQiOiIyOTY4OTk4NTYiLCJza2V5IjoiYXV0aF90b2tlbjplZHVzcDp2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsIm5pY2siOiJ2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsInJlYWxtIjoiZWR1c3AiLCJyb2xlIjoiMDAwNiIsImlhdCI6MTc1ODU3MTg0MywiZXhwIjoxNzU4NjU4MjQzLCJhdWQiOiJ3ZWJjbGllbnQifQ.vZoRr5YRO638TI7dpi36wm26_vJhUXRvd3k4xzQp5Bc
+x-api-platform
+webclient
+x-api-realm
+edusp
+
+
+
+
+Request URL
+https://edusp-api.ip.tv/tms/task/todo?expired_only=false&limit=100&offset=0&filter_expired=true&is_exam=false&with_answer=true&is_essay=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&answer_statuses=draft&answer_statuses=pending&with_apply_moment=true
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[2606:4700:10::ac42:a3e1]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-allow-methods
+GET,HEAD,PUT,POST,DELETE
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+983478487a444b2e-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:14:39 GMT
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+vary
+Access-Control-Request-Headers
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+OPTIONS
+:path
+/tms/task/todo?expired_only=false&limit=100&offset=0&filter_expired=true&is_exam=false&with_answer=true&is_essay=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&answer_statuses=draft&answer_statuses=pending&with_apply_moment=true
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-request-method
+GET
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://edusp-api.ip.tv/tms/task/todo?expired_only=false&limit=100&offset=0&filter_expired=true&is_exam=false&with_answer=true&is_essay=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&answer_statuses=draft&answer_statuses=pending&with_apply_moment=true
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2606:4700:10::ac42:a3e1]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+983478490adb4b2e-GRU
+content-encoding
+br
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+content-type
+application/json; charset=utf-8
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:14:39 GMT
+etag
+W/"12cf-/K3/O9fhXGrCUMGU/B87idICXw0"
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-server-time
+2025-09-22T20:14:39.541Z
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+GET
+:path
+/tms/task/todo?expired_only=false&limit=100&offset=0&filter_expired=true&is_exam=false&with_answer=true&is_essay=false&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l:vitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&answer_statuses=draft&answer_statuses=pending&with_apply_moment=true
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|8fee5ddd79354b1584656cc0b9dd6f51.8b33647cbb9f4b56
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+traceparent
+00-8fee5ddd79354b1584656cc0b9dd6f51-8b33647cbb9f4b56-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-api-key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjVkNjJkZDNiNDYzYWIyOWY4MzdiMGY2IiwiZXh0ZXJuYWxfaWQiOiIyOTY4OTk4NTYiLCJza2V5IjoiYXV0aF90b2tlbjplZHVzcDp2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsIm5pY2siOiJ2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsInJlYWxtIjoiZWR1c3AiLCJyb2xlIjoiMDAwNiIsImlhdCI6MTc1ODU3MTg0MywiZXhwIjoxNzU4NjU4MjQzLCJhdWQiOiJ3ZWJjbGllbnQifQ.vZoRr5YRO638TI7dpi36wm26_vJhUXRvd3k4xzQp5Bc
+x-api-platform
+webclient
+x-api-realm
+edusp
+
+
+
+
+Request URL
+https://sedintegracoes.educacao.sp.gov.br/credenciais/api/ValidarToken
+Request Method
+OPTIONS
+Status Code
+200 OK
+Remote Address
+[64:ff9b::87e8:2c39]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+authorization,ocp-apim-subscription-key,request-id,traceparent
+access-control-allow-methods
+POST
+access-control-allow-origin
+*
+connection
+keep-alive
+content-length
+0
+date
+Mon, 22 Sep 2025 20:19:18 GMT
+request-context
+appId=cid-v1:861a4529-2cf3-4d08-a982-60d8c305b12e
+set-cookie
+ApplicationGatewayAffinityCORS=b6acccc21a1d7b0653c15fbda6021ce8; Path=/; SameSite=None; Secure
+set-cookie
+ApplicationGatewayAffinity=b6acccc21a1d7b0653c15fbda6021ce8; Path=/
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+authorization,ocp-apim-subscription-key,request-id,traceparent
+access-control-request-method
+POST
+connection
+keep-alive
+host
+sedintegracoes.educacao.sp.gov.br
+origin
+https://saladofuturo.educacao.sp.gov.br
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://edusp-api.ip.tv/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+Request Method
+GET
+Status Code
+304 Not Modified
+Remote Address
+[2606:4700:10::6814:18aa]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+98347f2e19c84f8c-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:19:21 GMT
+etag
+W/"1e-T20kvyvwmed8bLpIMiuRARKCfRY"
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+GET
+:path
+/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-type
+application/json
+if-none-match
+W/"1e-T20kvyvwmed8bLpIMiuRARKCfRY"
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|8fee5ddd79354b1584656cc0b9dd6f51.ca13c493e6724f50
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+traceparent
+00-8fee5ddd79354b1584656cc0b9dd6f51-ca13c493e6724f50-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-api-key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjVkNjJkZDNiNDYzYWIyOWY4MzdiMGY2IiwiZXh0ZXJuYWxfaWQiOiIyOTY4OTk4NTYiLCJza2V5IjoiYXV0aF90b2tlbjplZHVzcDp2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsIm5pY2siOiJ2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsInJlYWxtIjoiZWR1c3AiLCJyb2xlIjoiMDAwNiIsImlhdCI6MTc1ODU3MTg0MywiZXhwIjoxNzU4NjU4MjQzLCJhdWQiOiJ3ZWJjbGllbnQifQ.vZoRr5YRO638TI7dpi36wm26_vJhUXRvd3k4xzQp5Bc
+x-api-platform
+webclient
+x-api-realm
+edusp
+
+
+
+
+
+Request URL
+https://edusp-api.ip.tv/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+Request Method
+GET
+Status Code
+304 Not Modified
+Remote Address
+[2606:4700:10::6814:18aa]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+98347ec30db979d1-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:19:04 GMT
+etag
+W/"1e-T20kvyvwmed8bLpIMiuRARKCfRY"
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+GET
+:path
+/survey/todo/count?&publication_target=r0552a0a5151aba628-l&publication_target=r0552a0a5151aba628-l%3Avitorhugoro122187695-sp&publication_target=1173&publication_target=764&publication_target=1552&filter_expired=true&with_answer=true&answer_statuses=draft
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-type
+application/json
+if-none-match
+W/"1e-T20kvyvwmed8bLpIMiuRARKCfRY"
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|8fee5ddd79354b1584656cc0b9dd6f51.d16e0af99ee7482f
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+traceparent
+00-8fee5ddd79354b1584656cc0b9dd6f51-d16e0af99ee7482f-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-api-key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjVkNjJkZDNiNDYzYWIyOWY4MzdiMGY2IiwiZXh0ZXJuYWxfaWQiOiIyOTY4OTk4NTYiLCJza2V5IjoiYXV0aF90b2tlbjplZHVzcDp2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsIm5pY2siOiJ2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsInJlYWxtIjoiZWR1c3AiLCJyb2xlIjoiMDAwNiIsImlhdCI6MTc1ODU3MTg0MywiZXhwIjoxNzU4NjU4MjQzLCJhdWQiOiJ3ZWJjbGllbnQifQ.vZoRr5YRO638TI7dpi36wm26_vJhUXRvd3k4xzQp5Bc
+x-api-platform
+webclient
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/1882.15ffdf85.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:29:1::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:20:31 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T202031Z-16cbdf89664rjt5chC1CPQfkqg00000002xg00000000a4da
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/1882.15ffdf85.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572430381; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758572431$j59$l0$h0
+referer
+https://saladofuturo.educacao.sp.gov.br/atividade/77733221
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+equest URL
+https://www.google-analytics.com/g/collect?v=2&tid=G-EBFJLFC85E&gtm=45je59i0v9183079152za200zd9183079152&_p=1758571820335&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fLqqwSYENNGw0WzZGo6tAD&cid=2097753910.1758571821&ul=pt-br&sr=1366x768&lps=1&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.128%7CNot%253DA%253FBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B140.0.7339.128&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~115480710~115616985&uid=296899856&sid=1758571820&sct=1&seg=1&dl=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Fatividade%2F77733221&dr=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2F&dt=Sala%20do%20Futuro%20Aluno&_s=16&tfd=615240
+Request Method
+POST
+Status Code
+204 No Content
+Remote Address
+[2800:3f0:4001:845::200e]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-credentials
+true
+access-control-allow-origin
+https://saladofuturo.educacao.sp.gov.br
+alt-svc
+h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control
+no-cache, no-store, must-revalidate
+content-length
+0
+content-security-policy-report-only
+script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsggc:102:0
+content-type
+text/plain
+cross-origin-opener-policy-report-only
+same-origin; report-to=ascnsrsggc:102:0
+cross-origin-resource-policy
+cross-origin
+date
+Mon, 22 Sep 2025 20:20:32 GMT
+expires
+Fri, 01 Jan 1990 00:00:00 GMT
+pragma
+no-cache
+report-to
+{"group":"ascnsrsggc:102:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsggc:102:0"}],}
+server
+Golfe2
+:authority
+www.google-analytics.com
+:method
+POST
+:path
+/g/collect?v=2&tid=G-EBFJLFC85E&gtm=45je59i0v9183079152za200zd9183079152&_p=1758571820335&gcd=13l3l3l3l1l1&npa=0&dma=0&_fid=fLqqwSYENNGw0WzZGo6tAD&cid=2097753910.1758571821&ul=pt-br&sr=1366x768&lps=1&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.128%7CNot%253DA%253FBrand%3B24.0.0.0%7CGoogle%2520Chrome%3B140.0.7339.128&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~115480710~115616985&uid=296899856&sid=1758571820&sct=1&seg=1&dl=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2Fatividade%2F77733221&dr=https%3A%2F%2Fsaladofuturo.educacao.sp.gov.br%2F&dt=Sala%20do%20Futuro%20Aluno&_s=16&tfd=615240
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-length
+409
+content-type
+text/plain;charset=UTF-8
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+no-cors
+sec-fetch-site
+cross-site
+sec-fetch-storage-access
+active
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://edusp-api.ip.tv/tms/task/77733221/apply?preview_mode=false&token_code=null&room_name=r0552a0a5151aba628-l
+Request Method
+OPTIONS
+Status Code
+204 No Content
+Remote Address
+[2606:4700:10::ac42:a3e1]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-allow-methods
+GET,HEAD,PUT,POST,DELETE
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+983480ea4e3c4b4c-GRU
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:20:33 GMT
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+vary
+Access-Control-Request-Headers
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+OPTIONS
+:path
+/tms/task/77733221/apply?preview_mode=false&token_code=null&room_name=r0552a0a5151aba628-l
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+access-control-request-headers
+content-type,request-id,traceparent,x-api-key,x-api-platform,x-api-realm
+access-control-request-method
+GET
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/fonts/criancas.json
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:29:1::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/json
+date
+Mon, 22 Sep 2025 20:20:33 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T202033Z-16cbdf89664rjt5chC1CPQfkqg00000002xg00000000a4fr
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/fonts/criancas.json
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572430381; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758572431$j59$l0$h0
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/atividade/77733221
+request-id
+|a04896f416a74c8881a27ece921972c2.a8df98d6ec0043a6
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+traceparent
+00-a04896f416a74c8881a27ece921972c2-a8df98d6ec0043a6-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+Request URL
+https://edusp-api.ip.tv/tms/task/77733221/apply?preview_mode=false&token_code=null&room_name=r0552a0a5151aba628-l
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2606:4700:10::ac42:a3e1]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-origin
+*
+access-control-expose-headers
+X-Server-Time
+cf-cache-status
+DYNAMIC
+cf-ray
+983480eace844b4c-GRU
+content-encoding
+br
+content-security-policy
+default-src 'self';base-uri 'self';font-src 'self' https: data:;form-action 'self';frame-ancestors 'self';img-src 'self' data:;object-src 'none';script-src 'self';script-src-attr 'none';style-src 'self' https: 'unsafe-inline';upgrade-insecure-requests
+content-type
+application/json; charset=utf-8
+cross-origin-opener-policy
+same-origin
+cross-origin-resource-policy
+same-origin
+date
+Mon, 22 Sep 2025 20:20:33 GMT
+etag
+W/"1c7b-sgl0OuAvjEBVeyRIL5e6ChC/kY4"
+origin-agent-cluster
+?1
+referrer-policy
+no-referrer
+server
+cloudflare
+strict-transport-security
+max-age=15724800; includeSubDomains
+x-content-type-options
+nosniff
+x-dns-prefetch-control
+off
+x-download-options
+noopen
+x-frame-options
+SAMEORIGIN
+x-permitted-cross-domain-policies
+none
+x-server-time
+2025-09-22T20:20:33.093Z
+x-xss-protection
+0
+:authority
+edusp-api.ip.tv
+:method
+GET
+:path
+/tms/task/77733221/apply?preview_mode=false&token_code=null&room_name=r0552a0a5151aba628-l
+:scheme
+https
+accept
+application/json
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+content-type
+application/json
+origin
+https://saladofuturo.educacao.sp.gov.br
+priority
+u=1, i
+referer
+https://saladofuturo.educacao.sp.gov.br/
+request-id
+|a04896f416a74c8881a27ece921972c2.27859677de6d4e47
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+cross-site
+traceparent
+00-a04896f416a74c8881a27ece921972c2-27859677de6d4e47-01
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-api-key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjVkNjJkZDNiNDYzYWIyOWY4MzdiMGY2IiwiZXh0ZXJuYWxfaWQiOiIyOTY4OTk4NTYiLCJza2V5IjoiYXV0aF90b2tlbjplZHVzcDp2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsIm5pY2siOiJ2aXRvcmh1Z29ybzEyMjE4NzY5NS1zcCIsInJlYWxtIjoiZWR1c3AiLCJyb2xlIjoiMDAwNiIsImlhdCI6MTc1ODU3MTg0MywiZXhwIjoxNzU4NjU4MjQzLCJhdWQiOiJ3ZWJjbGllbnQifQ.vZoRr5YRO638TI7dpi36wm26_vJhUXRvd3k4xzQp5Bc
+x-api-platform
+webclient
+x-api-realm
+edusp
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/4098.34ca76b4.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:29:1::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:20:33 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T202033Z-16cbdf89664rjt5chC1CPQfkqg00000002xg00000000a4gx
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/4098.34ca76b4.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572430381; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758572431$j59$l0$h0
+referer
+https://saladofuturo.educacao.sp.gov.br/atividade/77733221
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+
+Request URL
+https://saladofuturo.educacao.sp.gov.br/js/834.6f8e1df2.js
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+[2620:1ec:29:1::33]:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET
+access-control-allow-origin
+*
+content-type
+application/javascript
+date
+Mon, 22 Sep 2025 20:20:33 GMT
+request-context
+appId=cid-v1:70e18392-5ebd-4e7e-a67d-9e45b93d64b7
+x-azure-ref
+20250922T202033Z-16cbdf89664rjt5chC1CPQfkqg00000002xg00000000a4gz
+x-cache
+TCP_HIT
+x-fd-int-roxy-purgeid
+32
+:authority
+saladofuturo.educacao.sp.gov.br
+:method
+GET
+:path
+/js/834.6f8e1df2.js
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+cookie
+_clck=p0j3o3%5E2%5Efzj%5E0%5E2091; ai_user=Kg1rVESsFS7s4E57MFkalt|2025-09-22T20:10:19.271Z; _ga=GA1.1.2097753910.1758571821; ai_authUser=296899856; ai_session=UbYppS7eV8X+RUSa191SRs|1758571820031|1758572430381; _ga_EBFJLFC85E=GS2.1.s1758571820$o1$g1$t1758572431$j59$l0$h0
+referer
+https://saladofuturo.educacao.sp.gov.br/atividade/77733221
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+script
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+
+
+
+ <script>
+        // Configuration
+        const config = {
+            API_BASE_URL: 'https://edusp.crimsonstrauss.xyz',
+            USER_AGENT: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+            CATALYST_API_URL: 'https://catalyst.crimsonstrauss.xyz/complete'
+        };
+
+        // Global variables
+        let currentFetchedTasks = [];
+        let currentTaskFilterType = '';
+        let trava = false;
+        let taskToStart = null;
+        let isDraftAfterStart = false;
+
+        // DOM Elements
+        const usernameInput = document.getElementById('username');
+        const passwordInput = document.getElementById('password');
+        const btnPending = document.getElementById('btnPending');
+        const btnExpired = document.getElementById('btnExpired');
+        const btnPendingExams = document.getElementById('btnPendingExams');
+        const passwordToggle = document.querySelector('.password-toggle');
+        const notificationContainer = document.getElementById('notification-container');
+        const btnShowAccounts = document.getElementById('btnShowAccounts');
+        
+        // Modals
+        const accountsModal = document.getElementById('accountsModal');
+        const closeAccountsModal = document.getElementById('closeAccountsModal');
+        const taskSelectionModal = document.getElementById('taskSelectionModal');
+        const closeTaskModal = document.getElementById('closeTaskModal');
+        const taskSelectionModalTitle = document.getElementById('taskSelectionModalTitle');
+        const taskListContainer = document.getElementById('taskListContainer');
+        const selectAllTasksCheckbox = document.getElementById('selectAllTasksCheckbox');
+        const startSelectedTasksBtn = document.getElementById('startSelectedTasksBtn');
+        const startSelectedTasksDraftBtn = document.getElementById('startSelectedTasksDraftBtn');
+        const modalMinTimeInput = document.getElementById('modalMinTimeInput');
+        const modalMaxTimeInput = document.getElementById('modalMaxTimeInput');
+        const examTokenModal = document.getElementById('examTokenModal');
+        const closeExamTokenModal = document.getElementById('closeExamTokenModal');
+        const submitExamTokenBtn = document.getElementById('submitExamTokenBtn');
+        const examTokenInput = document.getElementById('examTokenInput');
+        const examTokenModalText = document.getElementById('examTokenModalText');
+
+        // Event Listeners
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeEventListeners();
+            log('Sistema inicializado');
+            console.warn('AVISO: As senhas são salvas localmente no seu navegador. Evite usar em computadores compartilhados.');
+            loadAdsConditionally();
+        });
+
+        function initializeEventListeners() {
+            passwordToggle.addEventListener('click', togglePassword);
+            btnPending.addEventListener('click', () => handleTaskSearch('pending'));
+            btnExpired.addEventListener('click', () => handleTaskSearch('expired'));
+            btnPendingExams.addEventListener('click', () => handleTaskSearch('pending_exams'));
+            
+            btnShowAccounts.addEventListener('click', openAccountsModal);
+            closeAccountsModal.addEventListener('click', () => accountsModal.style.display = 'none');
+            accountsModal.addEventListener('click', (e) => { if (e.target === accountsModal) accountsModal.style.display = 'none'; });
+
+            closeTaskModal.addEventListener('click', closeTaskSelectionModal);
+            taskSelectionModal.addEventListener('click', (e) => { 
+                if (e.target === taskSelectionModal) closeTaskSelectionModal(); 
+            });
+            
+            selectAllTasksCheckbox.addEventListener('change', toggleSelectAllTasks);
+            startSelectedTasksBtn.addEventListener('click', () => handleStartSelectedTasks(false));
+            startSelectedTasksDraftBtn.addEventListener('click', () => handleStartSelectedTasks(true));
+
+            closeExamTokenModal.addEventListener('click', () => examTokenModal.classList.remove('show'));
+            examTokenModal.addEventListener('click', (e) => { if (e.target === examTokenModal) examTokenModal.classList.remove('show'); });
+            submitExamTokenBtn.addEventListener('click', handleExamTokenSubmit);
+
+            document.getElementById('loginForm').addEventListener('submit', (e) => e.preventDefault());
+
+            // Para o modal de tarefas, carregar ad quando mostrado
+            taskSelectionModal.addEventListener('transitionend', function(e) {
+                if (taskSelectionModal.classList.contains('show')) {
+                    loadModalAd();
+                }
+            });
+        }
+
+        // Função para carregar ads condicionalmente
+        function loadAdsConditionally() {
+            const ads = document.querySelectorAll('.adsbygoogle');
+            ads.forEach(ad => {
+                const container = ad.parentElement;
+                if (container.offsetWidth > 0 && container.offsetHeight > 0) {
+                    const format = ad.dataset.adFormat;
+                    if (format === 'fluid' || format === 'autorelaxed') {
+                        if (container.offsetWidth >= 250) {
+                            (window.adsbygoogle = window.adsbygoogle || []).push({});
+                        }
+                    } else {
+                        (window.adsbygoogle = window.adsbygoogle || []).push({});
+                    }
+                }
+            });
+        }
+
+        // Função específica para ad no modal
+        function loadModalAd() {
+            const modalAd = document.querySelector('.ad-slot-modal-footer .adsbygoogle');
+            if (modalAd) {
+                const container = modalAd.parentElement;
+                if (container.offsetWidth >= 250) {
+                    (window.adsbygoogle = window.adsbygoogle || []).push({});
+                }
+            }
+        }
+
+        // Utility & UI Functions
+        function togglePassword() {
+            const type = passwordInput.type === 'password' ? 'text' : 'password';
+            passwordInput.type = type;
+            const icon = passwordToggle.querySelector('i');
+            icon.classList.toggle('fa-eye');
+            icon.classList.toggle('fa-eye-slash');
+        }
+
+        function Atividade(title, message, type = 'info') {
+            showNotification(title, message, type);
+            log(`${title}: ${message}`);
+        }
+
+        function showNotification(title, message, type = 'info') {
+            const icons = { info: 'fa-info-circle', success: 'fa-check-circle', error: 'fa-times-circle' };
+            const iconClass = icons[type] || 'fa-info-circle';
+
+            const notification = document.createElement('div');
+            notification.className = `notification ${type}`;
+            notification.innerHTML = `<i class="fas ${iconClass}"></i><div class="notification-content"><strong>${title}</strong><br>${message}</div>`;
+            
+            notificationContainer.appendChild(notification);
+            
+            setTimeout(() => notification.classList.add('show'), 10);
+            
+            setTimeout(() => {
+                notification.classList.remove('show');
+                notification.addEventListener('transitionend', () => notification.remove(), { once: true });
+            }, 900);
+        }
+
+        function generateRandomHex(length) {
+            let result = '';
+            const characters = '0123456789abcdef';
+            const charactersLength = characters.length;
+            for (let i = 0; i < length; i++) {
+                result += characters.charAt(Math.floor(Math.random() * charactersLength));
+            }
+            return result;
+        }
+
+        // Saved Accounts Functions
+        function getSavedAccounts() { return JSON.parse(localStorage.getItem('eclipse_lunar_accounts')) || {}; }
+        function saveAccount(ra, password, token, nick) {
+            const accounts = getSavedAccounts();
+            accounts[ra] = { password, token, nick, savedAt: new Date().toISOString() };
+            localStorage.setItem('eclipse_lunar_accounts', JSON.stringify(accounts));
+        }
+        function deleteAccount(ra) {
+            const accounts = getSavedAccounts();
+            delete accounts[ra];
+            localStorage.setItem('eclipse_lunar_accounts', JSON.stringify(accounts));
+        }
+        function openAccountsModal() {
+            const accounts = getSavedAccounts();
+            const container = document.getElementById('accountListContainer');
+            container.innerHTML = ''; 
+
+            if (Object.keys(accounts).length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: var(--text-secondary);">Nenhuma conta salva.</p>';
+            } else {
+                for (const ra in accounts) {
+                    const item = document.createElement('div');
+                    item.className = 'account-list-item';
+                    item.innerHTML = `
+                        <span class="account-list-item-user">${ra}</span>
+                        <div class="account-list-item-actions">
+                            <button class="btn-account-action btn-use" data-ra="${ra}">Usar</button>
+                            <button class="btn-account-action btn-delete" data-ra="${ra}">Excluir</button>
+                        </div>`;
+                    container.appendChild(item);
+                }
+            }
+            accountsModal.style.display = 'flex';
+
+            container.querySelectorAll('.btn-use').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const ra = e.target.dataset.ra;
+                    const account = accounts[ra];
+                    if (account) {
+                        usernameInput.value = ra;
+                        passwordInput.value = account.password;
+                        accountsModal.style.display = 'none';
+                        showNotification('Conta Carregada', `Dados de ${ra} preenchidos.`, 'success');
+                    }
+                });
+            });
+            container.querySelectorAll('.btn-delete').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const ra = e.target.dataset.ra;
+                    deleteAccount(ra);
+                    showNotification('Conta Removida', `A conta ${ra} foi excluída.`, 'info');
+                    openAccountsModal();
+                });
+            });
+        }
+
+        // Modal Functions
+        function closeTaskSelectionModal() {
+            taskSelectionModal.classList.remove('show');
+            currentFetchedTasks = [];
+        }
+
+        function toggleSelectAllTasks() {
+            const checkboxes = taskListContainer.querySelectorAll('.activity-item input[type="checkbox"]:not(:disabled)');
+            checkboxes.forEach(checkbox => checkbox.checked = selectAllTasksCheckbox.checked);
+            updateSelectAllCheckboxState();
+        }
+
+        // Task Handling Functions
+        async function handleTaskSearch(taskFilter) {
+            if (trava || btnPending.disabled) {
+                showNotification('Aguarde', 'Operação em andamento ou em resfriamento.', 'info');
+                return;
+            }
+
+            const username = usernameInput.value.trim();
+            const password = passwordInput.value.trim();
+            if (!username) {
+                showNotification('Erro', 'Por favor, preencha o campo de usuário.', 'error');
+                return;
+            }
+
+            trava = true;
+            currentTaskFilterType = taskFilter;
+            btnPending.disabled = true;
+            btnExpired.disabled = true;
+            btnPendingExams.disabled = true;
+
+            try {
+                const accounts = getSavedAccounts();
+                const savedAccount = accounts[username];
+                let tokenToUse = savedAccount ? savedAccount.token : null;
+                let reAuthAttempted = false;
+
+                if (tokenToUse) {
+                    Atividade('Autenticação', 'Verificando token salvo...');
+                    try {
+                        await fetchUserRooms(tokenToUse, taskFilter, savedAccount.nick);
+                    } catch (error) {
+                        if (error.message.includes('401')) {
+                            Atividade('Token Inválido', 'Tentando reautenticar com a senha salva...', 'info');
+                            if (savedAccount.password) {
+                                await loginAndFetchTasks(taskFilter, username, savedAccount.password);
+                                reAuthAttempted = true;
+                            } else if (password) {
+                                await loginAndFetchTasks(taskFilter, username, password);
+                                reAuthAttempted = true;
+                            } else {
+                                showNotification('Sessão Expirada', 'Por favor, insira sua senha para continuar.', 'error');
+                            }
+                        } else { throw error; }
+                    }
+                }
+                
+                if (!tokenToUse && !reAuthAttempted) {
+                     if (!password) {
+                        showNotification('Senha Necessária', 'Por favor, insira sua senha.', 'error');
+                    } else {
+                        await loginAndFetchTasks(taskFilter, username, password);
+                    }
+                }
+            } catch (error) {
+                console.error('Erro no fluxo de busca de tarefas:', error);
+            } finally {
+                trava = false; // Finaliza o bloqueio da operação
+                // Inicia o resfriamento para reativar os botões
+                setTimeout(() => {
+                    btnPending.disabled = false;
+                    btnExpired.disabled = false;
+                    btnPendingExams.disabled = false;
+                }, 2500); // 2.5 segundos de resfriamento
+            }
+        }
+
+        async function handleStartSelectedTasks(isDraft) {
+            const selectedTasksData = getSelectedTasksWithScores();
+            if (selectedTasksData.tasks.length === 0) {
+                showNotification('Atenção', 'Nenhuma tarefa selecionada.', 'info');
+                return;
+            }
+
+            const isHandlingExams = currentTaskFilterType === 'pending_exams';
+
+            // Separar tarefas normais de provas
+            const regularTasks = isHandlingExams ? [] : selectedTasksData.tasks;
+            const examTasks = isHandlingExams ? selectedTasksData.tasks : [];
+
+            // Processar tarefas normais imediatamente
+            if (regularTasks.length > 0) {
+                await sendTasksToCatalyst(regularTasks, isDraft, selectedTasksData.minTime, selectedTasksData.maxTime);
+                closeTaskSelectionModal(); // Fecha o modal se SÓ havia tarefas normais
+            }
+
+            // Lidar com provas (sempre requer token)
+            if (examTasks.length > 0) {
+                if (examTasks.length > 1) {
+                    showNotification('Atenção', 'Por favor, selecione apenas uma prova de cada vez.', 'info');
+                    return;
+                }
+                // Prepara para abrir o modal do token
+                taskToStart = examTasks[0];
+                isDraftAfterStart = isDraft;
+                examTokenModalText.querySelector('strong').textContent = taskToStart.title;
+                examTokenInput.value = '';
+                examTokenModal.classList.add('show');
+            }
+        }
+        
+        async function handleExamTokenSubmit() {
+            const tokenCode = examTokenInput.value.trim();
+            if (!tokenCode) {
+                showNotification('Erro', 'Por favor, insira o código da prova.', 'error');
+                return;
+            }
+            if (!taskToStart) {
+                showNotification('Erro', 'Nenhuma prova selecionada para iniciar.', 'error');
+                return;
+            }
+
+            submitExamTokenBtn.disabled = true;
+
+            try {
+                // Monta a URL base para a chamada /apply - ORDEM CORRETA DOS PARÂMETROS
+                let applyUrl = `${config.API_BASE_URL}/tms/task/${taskToStart.id}/apply?preview_mode=false`;
+                
+                // Se for um rascunho (já tem answer_id), adiciona os parâmetros necessários
+                if (taskToStart.answer_id) {
+                    applyUrl += `&answer_id=${taskToStart.answer_id}`;
+                    applyUrl += `&answer_fields=id`;
+                    applyUrl += `&answer_fields=nick`;
+                    applyUrl += `&answer_fields=status`;
+                    applyUrl += `&answer_fields=task_id`;
+                    applyUrl += `&answer_fields=answers`;
+                    applyUrl += `&answer_fields=duration`;
+                    Atividade('Continuando Prova', 'Enviando código de acesso...');
+                } else {
+                    Atividade('Iniciando Prova', 'Enviando código de acesso...');
+                }
+
+                // Adiciona os parâmetros finais (ORDEM IMPORTANTE)
+                applyUrl += `&token_code=${tokenCode}`;
+                applyUrl += `&room_name=${taskToStart.room}`;
+
+                const traceId = generateRandomHex(32);
+                const parentId = generateRandomHex(16);
+                
+                // HEADERS COMPLETOS E CORRETOS (incluindo If-None-Match)
+                const newHeaders = {
+                    'accept': 'application/json',
+                    'accept-language': 'pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
+                    'content-type': 'application/json',
+                    'if-none-match': 'W/"14e17-EUjvIc3BT8dKDKC1KGHHRDQN8rE"', // HEADER IMPORTANTE QUE ESTAVA FALTANDO
+                    'origin': 'https://saladofuturo.educacao.sp.gov.br',
+                    'priority': 'u=1, i',
+                    'referer': 'https://saladofuturo.educacao.sp.gov.br/',
+                    'request-id': `|${traceId}.${parentId}`,
+                    'sec-ch-ua': '"Chromium";v="140", "Not=A?Brand";v="24", "Microsoft Edge";v="140"',
+                    'sec-ch-ua-mobile': '?0',
+                    'sec-ch-ua-platform': '"Windows"',
+                    'sec-fetch-dest': 'empty',
+                    'sec-fetch-mode': 'cors',
+                    'sec-fetch-site': 'cross-site',
+                    'traceparent': `00-${traceId}-${parentId}-01`,
+                    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0',
+                    'x-api-key': taskToStart.token,
+                    'x-api-platform': 'webclient',
+                    'x-api-realm': 'edusp'
+                };
+
+                console.log('URL sendo chamada:', applyUrl);
+                console.log('Headers:', newHeaders);
+
+                const applyResponse = await makeRequest(applyUrl, 'GET', newHeaders, {});
+
+                Atividade('Sucesso', 'Prova autenticada! Enviando para conclusão.', 'success');
+                examTokenModal.classList.remove('show');
+                closeTaskSelectionModal();
+
+                // Combina os dados da tarefa original com a resposta do /apply
+                const updatedTask = {
+                    ...taskToStart,
+                    ...applyResponse,
+                };
+                
+                const minTime = parseInt(modalMinTimeInput.value) || 1;
+                const maxTime = parseInt(modalMaxTimeInput.value) || 3;
+
+                // Envia a tarefa (agora iniciada/continuada) para a API de conclusão
+                await sendTasksToCatalyst([updatedTask], isDraftAfterStart, minTime, maxTime);
+
+            } catch (error) {
+                Atividade('Erro ao Iniciar', 'Código inválido ou falha na comunicação.', 'error');
+                console.error('Erro ao autenticar prova via /apply:', error);
+                console.error('URL da requisição:', applyUrl);
+            } finally {
+                submitExamTokenBtn.disabled = false;
+                taskToStart = null;
+                isDraftAfterStart = false;
+            }
+        }
+
+        function getSelectedTasksWithScores() {
+             const selectedItems = [];
+             taskListContainer.querySelectorAll('.activity-item').forEach(item => {
+                const checkbox = item.querySelector('input[type="checkbox"]');
+                if (checkbox.checked) {
+                    const taskId = parseInt(checkbox.value);
+                    const originalTask = currentFetchedTasks.find(t => t.id === taskId);
+                    if (originalTask) {
+                        const scoreSelect = item.querySelector('.activity-score-selector');
+                        selectedItems.push({
+                            ...originalTask,
+                            score: parseInt(scoreSelect.value)
+                        });
+                    }
+                }
+             });
+
+            return {
+                tasks: selectedItems,
+                minTime: parseInt(modalMinTimeInput.value) || 1,
+                maxTime: parseInt(modalMaxTimeInput.value) || 3
+            };
+        }
+
+        // API Functions
+        async function loginAndFetchTasks(taskFilter, ra, senha) {
+            const loginData = { realm: "edusp", platform: "webclient", id: ra, password: senha };
+            const headers = {
+                'Accept': 'application/json', 'x-api-realm': 'edusp', 'x-api-platform': 'webclient',
+                'User-Agent': config.USER_AGENT, 'Content-Type': 'application/json', 'Referer': 'https://crimsonstrauss.xyz/',
+                'Origin': 'https://crimsonstrauss.xyz', 'Sec-Fetch-Site': 'cross-site', 'Sec-Fetch-Mode': 'cors',
+                'Sec-Fetch-Dest': 'empty', 'Priority': 'u=0'
+            };
+
+            try {
+                Atividade('Autenticação', 'Realizando login...');
+                const data = await makeRequest(`${config.API_BASE_URL}/registration/edusp`, 'POST', headers, loginData);
+                saveAccount(ra, senha, data.auth_token, data.nick);
+                await fetchUserRooms(data.auth_token, taskFilter, data.nick);
+            } catch (error) {
+                Atividade('Erro de Login', 'Credenciais inválidas. Verifique seu usuário e senha.', 'error');
+                throw error;
+            }
+        }
+
+        async function fetchUserRooms(token, taskFilter, userNick) {
+            try {
+                Atividade('Processamento', 'Buscando lições...');
+                const data = await makeRequest(
+                    `${config.API_BASE_URL}/room/user?list_all=true&with_cards=true`,
+                    'GET', { ...getDefaultHeaders(), 'x-api-key': token }
+                );
+
+                if (data.rooms && data.rooms.length > 0) {
+                    let uniqueTargets = new Set();
+                    let roomIdToNameMap = new Map();
+                    let firstRoomName = data.rooms[0].name;
+
+                    data.rooms.forEach(room => {
+                        uniqueTargets.add(room.name);
+                        roomIdToNameMap.set(room.id.toString(), room.name);
+
+                        if (userNick) {
+                            uniqueTargets.add(`${room.name}:${userNick}`);
+                        }
+                    });
+
+                    const roomUserJsonString = JSON.stringify(data);
+                    const idMatches = roomUserJsonString.match(/"id"\s*:\s*(\d+)(?!\d)/g) || [];
+                    idMatches.forEach(m => {
+                        const id = m.match(/\d+/)[0];
+                        if (id && !roomIdToNameMap.has(id) && !uniqueTargets.has(id)) {
+                            uniqueTargets.add(id);
+                        }
+                    });
+
+                    const targetsArray = Array.from(uniqueTargets);
+
+                    let allFetchedTasks = await fetchTasks(token, targetsArray, taskFilter);
+
+                    allFetchedTasks.forEach(task => {
+                        if (isSpecialTaskByTitle(task) && task.answer_status === null) {
+                            task.answer_status = 'pending';
+                        }
+                    });
+
+
+                    if (allFetchedTasks.length > 0) {
+                        currentFetchedTasks = allFetchedTasks.map(task => {
+                            let effectiveRoomForExecution = null;
+
+                            if (task.room_info && task.room_info.name) {
+                                effectiveRoomForExecution = task.room_info.name;
+                            } else {
+                                const pubTarget = task.publication_target;
+                                if (roomIdToNameMap.has(pubTarget)) {
+                                    effectiveRoomForExecution = roomIdToNameMap.get(pubTarget);
+                                } else if (typeof pubTarget === 'string' && pubTarget.includes(':')) {
+                                    effectiveRoomForExecution = pubTarget.split(':')[0];
+                                } else if (typeof pubTarget === 'string' && pubTarget.startsWith('r')) {
+                                    effectiveRoomForExecution = pubTarget;
+                                }
+                            }
+
+                            if (!effectiveRoomForExecution || !effectiveRoomForExecution.startsWith('r')) {
+                                effectiveRoomForExecution = firstRoomName;
+                            }
+
+                            return { ...task,
+                                token,
+                                room: effectiveRoomForExecution,
+                                type: taskFilter
+                            };
+                        });
+                        displayTasksInSelectionModal(currentFetchedTasks, taskFilter);
+                        Atividade('Processamento', `Identificadas ${currentFetchedTasks.length} lições para seleção.`);
+                    } else {
+                        Atividade('Info', 'Nenhuma lição encontrada para o filtro selecionado.');
+                        showNotification('Nenhuma Tarefa', 'Não foram encontradas lições para o filtro selecionado.', 'info');
+                    }
+
+                } else {
+                    Atividade('Info', 'Nenhuma sala encontrada.');
+                    showNotification('Nenhuma Sala', 'Nenhuma sala encontrada para o usuário.', 'info');
+                }
+            } catch (error) {
+                Atividade('Erro', 'Erro ao buscar salas do usuário.');
+                showNotification('Erro', 'Erro ao buscar salas do usuário.', 'error');
+                throw error;
+            } finally {
+                // O trava é gerenciado pela função que chamou esta
+            }
+        }
+
+        async function fetchTasks(token, targetPublications, taskFilter = 'all') {
+            const params = {
+                limit: 100,
+                offset: 0,
+                with_answer: true,
+                with_apply_moment: true,
+            };
+
+            // Definindo os parâmetros com base no filtro
+            if (taskFilter === 'expired') {
+                params.expired_only = true;
+                params.filter_expired = false;
+                params.is_exam = false;
+                params.is_essay = false;
+            } else if (taskFilter === 'pending_exams') {
+                params.expired_only = false;
+                params.filter_expired = true;
+                params.is_exam = true;
+                params.with_answer = true;
+            } else { // 'pending' (padrão)
+                params.expired_only = false;
+                params.filter_expired = true;
+                params.is_exam = false;
+                params.is_essay = false;
+            }
+
+            const statusParams =
+                `answer_statuses=${encodeURIComponent('pending')}&answer_statuses=${encodeURIComponent('draft')}`;
+
+            const targetParams = targetPublications.map(target => {
+                return `publication_target=${encodeURIComponent(target)}`;
+            }).join('&');
+
+            const url =
+                `${config.API_BASE_URL}/tms/task/todo?${Object.entries(params).map(([key, value]) => `${key}=${value}`).join('&')}&${targetParams}&${statusParams}`;
+
+            const headers = { ...getDefaultHeaders(),
+                'x-api-key': token
+            };
+            try {
+                const data = await makeRequest(url, 'GET', headers);
+
+                let filteredData = data;
+                if (taskFilter === 'expired') {
+                    filteredData = filteredData.filter(task => !isRedacao(task));
+                }
+
+                let tasksFound = filteredData.map(task => ({ ...task,
+                    token,
+                    room: task.publication_target,
+                    type: taskFilter
+                }));
+
+                return tasksFound;
+
+            } catch (error) {
+                return [];
+            }
+        }
+
+        function displayTasksInSelectionModal(tasks, filterType) {
+            taskListContainer.innerHTML = '';
+            updateSelectAllCheckboxState();
+
+            if (tasks.length === 0) {
+                taskListContainer.innerHTML = '<p style="text-align: center; color: var(--eclipse-text-secondary); padding: 20px;">Nenhuma tarefa encontrada.</p>';
+                [startSelectedTasksBtn, selectAllTasksCheckbox, startSelectedTasksDraftBtn].forEach(el => el.disabled = true);
+            } else {
+                tasks.forEach(task => {
+                    const isDisabled = isRedacao(task) && filterType === 'expired';
+                    
+                    let statusText = '';
+                    if (filterType === 'pending' || filterType === 'pending_exams') {
+                         if (task.answer_id) { // Se tem answer_id, é um rascunho ou foi iniciada
+                            statusText = '(Rascunho / Iniciada)';
+                        } else { // Se não, está pendente e nunca foi aberta
+                            statusText = '(Não Iniciada)';
+                        }
+                    }
+
+                    const listItem = document.createElement('div');
+                    listItem.className = `activity-item ${isRedacao(task) ? 'redacao' : ''}`;
+                    listItem.innerHTML = `
+                        <div class="activity-item-top">
+                            <input type="checkbox" value="${task.id}" id="activity-${task.id}" ${isDisabled ? 'disabled' : ''}>
+                            <label for="activity-${task.id}">${task.title}
+                                <span style="color: var(--eclipse-text-secondary); font-size: 0.85em; margin-left: 5px;">${statusText}</span>
+                                ${isDisabled ? `<span style="color: var(--eclipse-warning); font-size: 0.85em; margin-left: 5px;">(Redação - Ignorada)</span>` : ''}
+                            </label>
+                        </div>
+                        <select class="activity-score-selector" onclick="event.stopPropagation()">
+                            <option value="100">100%</option>
+                            <option value="90">90%</option>
+                            <option value="80">80%</option>
+                            <option value="70">70%</option>
+                            <option value="60">60%</option>
+                            <option value="50">50%</option>
+                        </select>
+                    `;
+                    taskListContainer.appendChild(listItem);
+                    
+                    const checkbox = listItem.querySelector('input[type="checkbox"]');
+
+                    listItem.addEventListener('click', (e) => {
+                        if (e.target !== checkbox && !checkbox.disabled) {
+                             checkbox.checked = !checkbox.checked;
+                             updateSelectAllCheckboxState();
+                        }
+                    });
+                    checkbox.addEventListener('change', updateSelectAllCheckboxState);
+                });
+                [startSelectedTasksBtn, selectAllTasksCheckbox, startSelectedTasksDraftBtn].forEach(el => el.disabled = false);
+            }
+
+            let title;
+            switch(filterType) {
+                case 'pending':
+                    title = 'Lições Pendentes';
+                    break;
+                case 'expired':
+                    title = 'Lições Expiradas';
+                    break;
+                case 'pending_exams':
+                    title = 'Provas Pendentes';
+                    break;
+                default:
+                    title = 'Selecionar Atividades';
+            }
+            taskSelectionModalTitle.textContent = title;
+            taskSelectionModal.classList.add('show');
+        }
+        
+        function updateSelectAllCheckboxState() {
+             const checkboxes = taskListContainer.querySelectorAll('.activity-item input[type="checkbox"]:not(:disabled)');
+             if (checkboxes.length === 0) {
+                 selectAllTasksCheckbox.checked = false;
+                 selectAllTasksCheckbox.indeterminate = false;
+                 return;
+             }
+             const checkedCount = Array.from(checkboxes).filter(cb => cb.checked).length;
+             selectAllTasksCheckbox.checked = checkedCount === checkboxes.length;
+             selectAllTasksCheckbox.indeterminate = checkedCount > 0 && checkedCount < checkboxes.length;
+        }
+
+        function isSpecialTaskByTitle(task) {
+            // Placeholder function as the original was not provided.
+            return false;
+        }
+
+        function getDefaultHeaders() {
+            return {
+                'Content-Type': 'application/json', 'Accept': 'application/json', 'x-api-realm': 'edusp',
+                'x-api-platform': 'webclient', 'User-Agent': config.USER_AGENT, 'Connection': 'keep-alive',
+                'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty'
+            };
+        }
+
+        async function makeRequest(url, method = 'GET', headers = {}, body = null) {
+            const options = { method, headers: { ...headers }};
+            if (body !== null && body !== undefined) {
+                 if(Object.keys(body).length > 0) {
+                    options.body = JSON.stringify(body);
+                 }
+            }
+            const response = await fetch(url, options);
+            if (!response.ok) {
+                const errorText = await response.text();
+                throw new Error(`HTTP ${response.status} em ${method} ${url}: ${errorText}`);
+            }
+             try {
+                return await response.json();
+            } catch (e) {
+                return {}; // Retorna objeto vazio se não houver corpo ou se não for JSON
+            }
+        }
+
+        function isRedacao(task) {
+            return task.tags.some(t => t.toLowerCase().includes('redacao')) || task.title.toLowerCase().includes('redação');
+        }
+        
+        async function processSingleTask(task, isDraft, minTime, maxTime) {
+            try {
+                const isProva = currentTaskFilterType === 'pending_exams';
+                const action = isProva ? 'Processando Prova' : 'Processando Tarefa';
+                Atividade(action, `Enviando para resolver: ${task.title.substring(0, 25)}...`, 'info');
+                
+                const finalTaskPayload = { 
+                    ...task,
+                    score: task.score,
+                    is_prova: isProva,
+                    task_id: task.id 
+                };
+
+                delete finalTaskPayload.id;
+
+                const catalystPayload = {
+                    tasks: [finalTaskPayload],
+                    auth_token: task.token,
+                    room_name_for_apply: task.room,
+                    time_min: minTime,
+                    time_max: maxTime,
+                    is_draft: isDraft,
+                    salvar_rascunho: isDraft
+                };
+                
+                await makeRequest(config.CATALYST_API_URL, 'POST', {'Content-Type': 'application/json'}, catalystPayload);
+
+                return { success: true, title: task.title };
+
+            } catch (error) {
+                console.error(`Erro ao processar a tarefa ${task.title}:`, error);
+                console.error('Detalhes do erro:', error.message);
+                return { success: false, title: task.title, error: error.message };
+            }
+        }
+
+        async function sendTasksToCatalyst(tasks, isDraft, minTime, maxTime) {
+            const tasksToProcess = tasks.filter(task => !(currentTaskFilterType === 'expired' && isRedacao(task)));
+            if (tasksToProcess.length === 0) {
+                if(currentTaskFilterType !== 'pending_exams') { // Não mostrar para provas, pois o fluxo é diferente
+                    showNotification('Atenção', 'Nenhuma lição válida para enviar.', 'info');
+                }
+                return;
+            }
+
+            Atividade('Enviando Tarefas', `Enviando ${tasksToProcess.length} tarefas para processamento...`, 'info');
+            
+            let successCount = 0;
+            let errorCount = 0;
+
+            for (const task of tasksToProcess) {
+                const result = await processSingleTask(task, isDraft, minTime, maxTime);
+                if (result.success) {
+                    successCount++;
+                } else {
+                    errorCount++;
+                    Atividade('Erro no Envio', `Falha ao processar '${result.title.substring(0, 20)}...'.`, 'error');
+                }
+                await new Promise(resolve => setTimeout(resolve, 500)); // Delay de 500ms entre as requisições
+            }
+
+            if(successCount > 0) {
+                Atividade('Sucesso', `${successCount} de ${tasksToProcess.length} tarefas processadas com sucesso.`, 'success');
+            }
+            if(errorCount > 0) {
+                Atividade('Falhas', `${errorCount} tarefas falharam. Verifique o console para detalhes.`, 'error');
+            }
+        }
+
+        function log(str) {
+            console.log(`★ ✦ Eclipse Lunar: ${str} ✦ ★`);
+        }
+    </script>
+
+
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"1c7b17d88697456ea7c4b635bb4fd529","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+
+
+
+
